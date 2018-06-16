@@ -36,6 +36,6 @@ BusanDev 스터디모임에서 javascript30 강좌를 함께 스터디하는 모
 
 - 일시 및 장소(예정) : 2018-06-09 10:00 ~ 12:00 부산콘텐츠코리아랩(센텀)
 - 내용 및 발표
-  - **04 - JS and CSS Clock**  - 제연주
+  - **04 - Array Cardio Day 1**  - 제연주
   - **05 - Flex Panel Gallery** - 김진솔
 
