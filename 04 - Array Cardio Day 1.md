@@ -186,7 +186,7 @@ inventors.sort(function (a, b) {
 ```javascript
 const category = document.querySelector('.mw-category');
 const nodes = category.querySelectorAll('a'); // NodeList로 반환됨
-// const links = [...nodes];
+const links = [...nodes];
 const links = Array.from(nodes);
 
 const de = links
@@ -217,6 +217,10 @@ people.sort((a, b) => {
     return aLastName > bLastName ? 1 : -1;
 });
 ```
+
+- 비구조화 할당
+
+> https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
 
 ### 8. Reduce Exercise
 
