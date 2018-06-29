@@ -45,7 +45,7 @@ BusanDev 스터디모임에서 javascript30 강좌를 함께 스터디하는 모
 - 일시 및 장소(예정) : 2018-07-07 10:00 ~ 13:00 부산콘텐츠코리아랩(센텀)
 - 내용 및 발표
   - **06 - Type Ahead**  - 배명진
-  - **07 -  Array Cardio Day 1 ** - 박태환
+  - **07 -  Array Cardio Day 1** - 박태환
 
 
 
@@ -54,5 +54,5 @@ BusanDev 스터디모임에서 javascript30 강좌를 함께 스터디하는 모
 - 일시 및 장소(예정) : 2018-07-21 10:00 ~ 13:00 부산콘텐츠코리아랩(센텀)
 - 내용 및 발표
   - **08 - Fun with HTML5 Canvas**  - 박준
-  - **09 -  Dev Tools Domination ** - 미정
+  - **09 -  Dev Tools Domination** - 미정
 
