@@ -3,11 +3,6 @@
 
 #08 - Fun with HTML5 Canvas			
 
-- 실습강좌 url : [https://javascript30.com](https://javascript30.com/)													
-
-
-
-
 ### Canvas
 
 > HTML <canvas> 요소는 스크립트 언어(보통은  자바스크립트를 사용)를 통해 그림을 그리는 데에 사용될 수 있습니다. 예를 들면, 그래프를 그리거나, 사진을 합성하거나, 애니메이션을 만들 때도 사용될 수 있습니다.
