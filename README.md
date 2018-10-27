@@ -121,11 +121,11 @@ BusanDev 스터디모임에서 javascript30 강좌를 함께 스터디하는 모
 - 일시 및 장소 : 2018-10-27 10:00 ~ 13:00 부산콘텐츠코리아랩(센텀) 회의실1
 - 내용 및 발표
   - **19 - Webcam Fun** - 박준
-  - **22 - HightLight ** - 배명진
+  - **22 - HightLight** - 배명진
 
 ##### 13차
 
 - 일시 및 장소 : 2018-11-10 10:00 ~ 13:00 부산콘텐츠리아랩(센텀) 회의실2
 - 내용 및 발표
 - **21 - Geolocation based Speedometer and Compass** - 박태환
-- **23 - Speach Synthesis** - 박태환
+- **23 - Speach Synthesis** - 홍길현
