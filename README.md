@@ -127,6 +127,15 @@ BusanDev 스터디모임에서 javascript30 강좌를 함께 스터디하는 모
 ##### 13차
 
 - 일시 및 장소 : 2018-11-10 10:00 ~ 13:00 부산콘텐츠리아랩(센텀) 회의실2
+- 참석 : 김태영, 박태환, 홍길현, 제연주, 배명진
 - 내용 및 발표
 - **21 - Geolocation based Speedometer and Compass** - 박태환
 - **23 - Speach Synthesis** - 홍길현
+
+
+##### 14차
+
+- 일시 및 장소 : 2018-11-24 10:00 ~ 13:00 부산콘텐츠리아랩(경성대) 창작실4
+- 내용 및 발표
+- **24 - Sticky Nav** - 김태영
+- **25 - Event Capture, Propagation, Bubbling and Once** - 제연주
