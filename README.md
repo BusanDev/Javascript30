@@ -136,6 +136,15 @@ BusanDev 스터디모임에서 javascript30 강좌를 함께 스터디하는 모
 ##### 14차
 
 - 일시 및 장소 : 2018-11-24 10:00 ~ 13:00 부산콘텐츠리아랩(경성대) 창작실4
+- 참석 : 김태영, 김진솔, 제연주, 배명진
 - 내용 및 발표
 - **24 - Sticky Nav** - 김태영
 - **25 - Event Capture, Propagation, Bubbling and Once** - 제연주
+
+
+##### 15차
+
+- 일시 및 장소 : 2018-12-08 10:00 ~ 13:00 부산콘텐츠리아랩(센텀) 회의실2
+- 내용 및 발표
+- **26 - Stripe Follow Along Dropdown** - 배명진
+- **27 - Click and Drag to Scroll** - 김진솔
