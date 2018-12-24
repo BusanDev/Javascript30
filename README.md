@@ -145,6 +145,16 @@ BusanDev 스터디모임에서 javascript30 강좌를 함께 스터디하는 모
 ##### 15차
 
 - 일시 및 장소 : 2018-12-22 10:00 ~ 13:00 부산콘텐츠리아랩(센텀) 회의실2
+- 참석 : 김태영, 김진솔, 박태환, 홍길현, 박준
 - 내용 및 발표
-- **26 - Stripe Follow Along Dropdown** - 박태환
+- **28 - Video Speed Controller** - 박태환
 - **27 - Click and Drag to Scroll** - 김진솔
+
+
+##### 16차
+
+- 일시 및 장소 : 2019-01-05 10:00 ~ 13:00 부산콘텐츠리아랩(센텀) 회의실2
+- 내용 및 발표
+- **26 - Stripe Follow Along Dropdown** - 배명진
+- **29 - Countdown Timer** - 박준
+- **30 - Whack A Mole** - 홍길현
