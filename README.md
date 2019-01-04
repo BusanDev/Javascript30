@@ -157,4 +157,4 @@ BusanDev 스터디모임에서 javascript30 강좌를 함께 스터디하는 모
 - 내용 및 발표
 - **26 - Stripe Follow Along Dropdown** - 배명진
 - **29 - Countdown Timer** - 박준
-- **30 - Whack A Mole** - 홍길현
+- **30 - Whack A Mole** - 김태영
